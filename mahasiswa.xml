@@ -1,10 +1,10 @@
 <mahasiswa>
-  	<data nim="15.01.53.0082">
-  		<nama>Fadilla Maulida</nama>
+  	<data nim="15.01.53.0065">
+  		<nama>Apriana Panca K</nama>
 		<progdi>Teknik Informatika</progdi>
- 	 	<alamat>Griya Bumi Banjardowo Indah Jl. Kelapa 1/4, Semarang</alamat>
+ 	 	<alamat>Jl. Genuk karanglo</alamat>
   		<agama>Islam</agama>
-  		<tgllahir>12/08/1996</tgllahir>
-		<telp>081226727126</telp>
+  		<tgllahir>22/04/1997</tgllahir>
+		<telp>088888888888</telp>
 	</data>
 </mahasiswa>
